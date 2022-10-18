@@ -1,7 +1,7 @@
 import React from 'react';
 import ProfilePic from '../assets/profilepic.jpg';
 // import ProfilePic1 from '../assets/profilepic1.jpeg';
-import ProfilePic1 from '../assets/profile2.jpeg';
+import ProfilePic1 from '../assets/profilepic.jpeg';
 // import ResumeFile from '../assets/Vedant_Daigavane_Resume.pdf';
 
 export default function About() {
