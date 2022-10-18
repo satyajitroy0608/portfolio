@@ -17,15 +17,14 @@ export default function About() {
         </div>
         <div className="basis-2/3 space-y-4">
           <span className="text-gray-500 text-xl">Hi, I am </span>
-          <div className="text-cyan-500 text-4xl font-bold">Vedant Daigavane</div>
-          <div className="text-xl text-gray-500 font-semibold">Passionate Coder & Trader</div>
+          <div className="text-cyan-500 text-4xl font-bold">Satyajit Roy</div>
+          <div className="text-xl text-gray-500 font-semibold">Software Developer</div>
           <div className="font-light text-gray-400">
-            I am a highly enthusiastic and competitive person who likes being around people who like
-            to test my limits and I try to push theirs as well. I love to acquire new skills and
-            share my knowledge. Taking up complex challenges is my passion. I don't like to stick to
-            one technique for a longer time and quickly look for other ways to do a task. I strongly
-            believe that being the jack of all trades and master of none is always better than being
-            master of one.
+          I am currently in Final Year pursuing B.E. (Computer Engineering) with Hons. in 
+          Artificial Intelligence and Machine Learning from Pune Institute of Computer Technology, India.
+          I am a Software Developer and my main interests are Machine Learning, Blockchain and
+          Cross-Platform Mobile App Development. I am passionate about making use of technology to solve
+          real-world problems. A student with strong inter-personal and communication skills.
           </div>
         </div>
       </div>
@@ -65,11 +64,11 @@ export default function About() {
 const social = [
   {
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg',
-    link: 'https://www.linkedin.com/in/vedant-daigavane-25785315a/',
+    link: 'https://www.linkedin.com/in/satyajit-roy060801/',
   },
   {
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg',
-    link: 'https://github.com/daigavane70',
+    link: 'https://github.com/satyajitroy0608',
   },
   {
     icon: 'https://cdn-icons-png.flaticon.com/512/732/732200.png',
