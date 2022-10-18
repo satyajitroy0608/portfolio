@@ -47,8 +47,8 @@ export default function Achievements() {
 
 const experiences = [
   {
-    position: 'SDE Intern',
-    company: 'Upstox',
+    //position: 'SDE Intern',
+    //company: 'Upstox',
     details: [
       'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
       'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
@@ -56,9 +56,9 @@ const experiences = [
       'Service to generate portfolio statement of a user in the form of PDF file using Thymeleaf template engine.',
       'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
     ],
-    date: 'Jan 2022 - Present',
-    img: 'https://lever-client-logos.s3.us-west-2.amazonaws.com/eb7738e7-d908-42f5-97da-61b28e53ce73-1631634736627.png',
-    companyUrl: "https://upstox.com/"
+    //date: 'Jan 2022 - Present',
+    //img: 'https://lever-client-logos.s3.us-west-2.amazonaws.com/eb7738e7-d908-42f5-97da-61b28e53ce73-1631634736627.png',
+    //companyUrl: "https://upstox.com/"
 
   },
   {
