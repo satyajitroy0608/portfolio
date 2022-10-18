@@ -17,8 +17,8 @@ export default function Achievements() {
                 <img
                   className="max-h-full max-w-full rounded-md"
                   src={
-                    exp.img ||
-                    'https://icons.veryicon.com/png/o/miscellaneous/zr_icon/company-23.png'
+                    exp.img //||
+                   // 'https://icons.veryicon.com/png/o/miscellaneous/zr_icon/company-23.png'
                   }
                   alt=""
                 ></img>
