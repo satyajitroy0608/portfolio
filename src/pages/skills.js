@@ -13,7 +13,7 @@ export default function Skills() {
             <div className="flex space-x-2 items-center">
               {skill.icon && <div className="text-2xl">{skill.icon}</div>}
               {skill.img && <img src={skill.img} className="h-6 w-6" alt=""></img>}
-              <div className=" text-gray-500">{skill.skill}</div>
+              <div className=" text-black-500">{skill.skill}</div>
             </div>
           );
         })}
@@ -23,62 +23,6 @@ export default function Skills() {
 }
 
 const skills = [
-  {
-    icon: <i class="devicon-spring-plain colored"></i>,
-    skill: 'Spring',
-  },
-  {
-    icon: <i class="devicon-apachekafka-original colored"></i>,
-    skill: 'Apache Kafka',
-  },
-  {
-    icon: <i class="devicon-nodejs-plain colored"></i>,
-    skill: 'Node JS',
-  },
-  {
-    icon: <i class="devicon-express-original colored"></i>,
-    skill: 'Express JS',
-  },
-  {
-    icon: <i class="devicon-nginx-original colored"></i>,
-    skill: "Nginx"
-  },
-  {
-    icon: <i class="devicon-react-original colored"></i>,
-    skill: 'React',
-  },
-  {
-    icon: <i class="devicon-redux-original colored"></i>,
-    skill: 'Redux',
-  },
-  {
-    icon: <i class="devicon-storybook-plain colored"></i>,
-    skill: 'Storybook',
-  },
-  {
-    icon: <i class="devicon-bootstrap-plain colored"></i>,
-    skill: 'Bootstrap',
-  },
-  {
-    icon: <i class="devicon-materialui-plain colored"></i>,
-    skill: 'Material UI',
-  },
-  {
-    icon: <i class="devicon-tailwindcss-plain colored"></i>,
-    skill: 'Tailwind CSS',
-  },
-  {
-    icon: <i class="devicon-css3-plain colored"></i>,
-    skill: 'CSS',
-  },
-  // {
-  //   icon: '',
-  //   skill: 'JWT',
-  // },
-  {
-    img: 'https://symbols.getvecta.com/stencil_92/21_postman-icon.c79f00c910.svg',
-    skill: 'Postman',
-  },
   {
     img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg',
     skill: 'C++',
@@ -116,6 +60,95 @@ const skills = [
     skill: 'PostgreSQL',
   },
   {
+    img: 'https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg',
+    skill: 'Solidity',
+  },
+  {
+    icon: <i class="devicon-flutter-plain colored"></i>,
+    skill: 'Flutter',
+  },
+  {
+    icon: <i class="devicon-firebase-plain colored"></i>,
+    skill: 'Firebase',
+  },
+  {
+    icon: <i class="devicon-flask-original colored"></i>,
+    skill: 'Flask',
+  },
+  {
+    icon: <i class="devicon-html5-plain colored"></i>,
+    skill: 'HTML5',
+  },
+  {
+    icon: <i class="devicon-css3-plain colored"></i>,
+    skill: 'CSS',
+  },
+  {
+    icon: <i class="devicon-tailwindcss-plain colored"></i>,
+    skill: 'Tailwind CSS',
+  },
+  {
+    icon: <i class="devicon-bootstrap-plain colored"></i>,
+    skill: 'Bootstrap',
+  },
+  
+  {
+    icon: <i class="devicon-react-original colored"></i>,
+    skill: 'React',
+  },
+  {
+    icon: <i class="devicon-redux-original colored"></i>,
+    skill: 'Redux',
+  },
+  {
+    icon: <i class="devicon-nodejs-plain colored"></i>,
+    skill: 'Node JS',
+  },
+  {
+    icon: <i class="devicon-express-original colored"></i>,
+    skill: 'Express JS',
+  },
+  {
+    icon: <i class="devicon-nginx-original colored"></i>,
+    skill: "Nginx"
+  },
+  
+  {
+    icon: <i class="devicon-spring-plain colored"></i>,
+    skill: 'Spring',
+  },
+  {
+    icon: <i class="devicon-apachekafka-original colored"></i>,
+    skill: 'Apache Kafka',
+  },
+  {
+    icon: <i class="devicon-storybook-plain colored"></i>,
+    skill: 'Storybook',
+  },
+  
+  {
+    icon: <i class="devicon-materialui-plain colored"></i>,
+    skill: 'Material UI',
+  },
+  
+  {
+    icon: <i class="devicon-azure-plain colored"></i>,
+    skill: 'Azure',
+  },
+  {
+    icon: <i class="devicon-php-plain colored"></i>,
+    skill: 'PHP',
+  },
+  // {
+  //   icon: '',
+  //   skill: 'JWT',
+  // },
+  {
+    icon: <i class="devicon-amazonwebservices-original colored"></i>,
+    skill: 'AWS',
+  },
+  
+  {
     img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg',
     skill: 'Redis',
   },
@@ -123,4 +156,11 @@ const skills = [
     img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg',
     skill: 'Docker',
   },
+
+  {
+    icon: <i class="devicon-django-plain colored"></i> ,
+    skill: 'Django',
+  },
+
+  
 ];
