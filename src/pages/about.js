@@ -22,8 +22,7 @@ export default function About() {
           <div className="font-light text-black-400">
           I am currently in Final Year pursuing B.E. (Computer Engineering) with Hons. in 
           Artificial Intelligence and Machine Learning from Pune Institute of Computer Technology, India.
-          I am a Software Developer and my main interests are Machine Learning, Blockchain and
-          Cross-Platform Mobile App Development. I am passionate about making use of technology to solve
+          My main interests are Machine Learning, Blockchain and Cross-Platform Mobile App Development. I am passionate about making use of technology to solve
           real-world problems. A student with strong inter-personal and communication skills.
           </div>
         </div>
