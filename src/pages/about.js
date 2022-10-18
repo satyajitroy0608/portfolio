@@ -46,7 +46,7 @@ export default function About() {
         </div>
         <a
           className="p-2 cursor-pointer rounded-lg relative px-10 w-max flex items-center m-auto space-x-4 border bg-slate-200"
-          href={'https://drive.google.com/file/d/1y07DZdv7oPGucnDmmwLa_DWzNCjbxTyY/view'}
+          href={'https://drive.google.com/file/d/1zAufc8KWgZF1HZP81NIAMBlJbEn9nBZm/view?usp=sharing'}
           target={'_blanck'}
           rel="noreferrer"
         >
@@ -72,11 +72,7 @@ const social = [
     link: 'https://github.com/daigavane70',
   },
   {
-    icon: 'https://cdn-icons-png.flaticon.com/512/1384/1384063.png',
-    link: 'https://www.instagram.com/vedant_daigavane/',
-  },
-  {
     icon: 'https://cdn-icons-png.flaticon.com/512/732/732200.png',
-    link: 'mailto: daigavane70@gmail.com',
+    link: 'mailto: satyajit12.roy@gmail.com',
   },
 ];
