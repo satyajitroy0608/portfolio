@@ -10,19 +10,7 @@ export default function Extracurriculars() {
         return (
           <div className="w-full shadow-md p-5 rounded-lg mb-10">
             <div className=" grid md:grid-cols-4 gap-4 md:order-2">
-              <div
-                className="w-full h-40 flex items-center justify-center my-auto hover:scale-105 transform transition ease-in cursor-pointer"
-                onClick={() => window.open(exp.companyUrl || window.location, '_blank')}
-              >
-                <img
-                  className="max-h-full max-w-full rounded-md"
-                  src={
-                    exp.img ||
-                    'https://icons.veryicon.com/png/o/miscellaneous/zr_icon/company-23.png'
-                  }
-                  alt=""
-                ></img>
-              </div>
+              
               <div className="md:col-span-3 space-y-4 my-auto">
                 <div className="text-lg md:text-2xl text-cyan-500">{exp.company}</div>
                 <div className="md:flex justify-between">
