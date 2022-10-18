@@ -29,7 +29,7 @@ export default function Achievements() {
                   <div className="text-xl text-slate-500 ">{exp.position}</div>
                   <div className=" text-slate-400">{exp.date}</div>
                 </div>
-                <div className=" text-gray-400 font-extralight text-sm">
+                <div className=" text-black-800 font-extralight text-sm">
                   <ul className="list-disc">
                     {exp.details.map((detail) => (
                       <li>{detail}</li>
