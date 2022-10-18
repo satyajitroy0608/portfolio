@@ -36,13 +36,13 @@ export default function Navbar() {
           EXPERIENCE
         </a>
         <a onClick={closeMobileNav} href="#projects" class="tab-button">
-          Projects
+          PROJECTS
         </a>
         <a onClick={closeMobileNav} href="#skills" class="tab-button">
-          Skills
+          SKILLS
         </a>
         <a onClick={closeMobileNav} href="#about" class="tab-button">
-          About
+          ABOUT
         </a>
       </div>
     </div>
