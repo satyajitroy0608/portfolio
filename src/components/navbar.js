@@ -41,6 +41,12 @@ export default function Navbar() {
         <a onClick={closeMobileNav} href="#skills" class="tab-button">
           SKILLS
         </a>
+        <a onClick={closeMobileNav} href="#achievements" class="tab-button">
+          ACHIEVEMENTS
+        </a>
+        <a onClick={closeMobileNav} href="#extracurriculars" class="tab-button">
+          EXTRACURRICULARS
+        </a>
         <a onClick={closeMobileNav} href="#about" class="tab-button">
           ABOUT
         </a>
