@@ -5,7 +5,9 @@ import Footer from './components/footer';
 import Navbar from './components/navbar';
 import Preloader from './components/preloader';
 import About from './pages/about';
+import Achievements from './pages/achievements';
 import Experience from './pages/experience';
+import Extracurriculars from './pages/extracurriculars';
 import Home from './pages/home';
 import Projects from './pages/projects';
 import Resume from './pages/resume';
@@ -36,6 +38,9 @@ function App() {
       <Experience></Experience>
       <Projects></Projects>
       <Skills></Skills>
+      <Achievements></Achievements>
+      <Extracurriculars>
+      </Extracurriculars>
       <About></About>
       <Resume></Resume>
       <Footer></Footer>
