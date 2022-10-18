@@ -23,13 +23,16 @@ export default function Achievements() {
                   alt=""
                 ></img>
               </div>
-              <div className="md:col-span-3 space-y-4 my-auto">
+
+
+
+              <div className="md:col-span-1 space-y-4 my-auto">
                 <div className="text-lg md:text-2xl text-cyan-500">{exp.company}</div>
                 <div className="md:flex justify-between">
                   <div className="text-xl text-slate-500 ">{exp.position}</div>
                   <div className=" text-slate-400">{exp.date}</div>
                 </div>
-                <div className=" text-black-800 font-extralight text-sm">
+                <div className=" text-black-400 font-extralight text-sm">
                   <ul className="list-disc">
                     {exp.details.map((detail) => (
                       <li>{detail}</li>
