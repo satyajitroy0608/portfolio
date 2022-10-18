@@ -1,4 +1,14 @@
 import React from 'react';
+import CP1 from '../assets/Veritas.jpg';
+import CP2 from '../assets/AlgoAnalytics.png';
+import CP3 from '../assets/Google.jpg';
+import CP4 from '../assets/Briota.jpg';
+import CP5 from '../assets/IDBI-Intech.jpg';
+import CP6 from '../assets/BobbleAI.jpg';
+import CP7 from '../assets/GrowMonks.png';
+import CP8 from '../assets/KODEITSolutions.jpg';
+import CP9 from '../assets/Verzeo.jpg';
+
 
 export default function Experience() {
   return (
@@ -24,12 +34,12 @@ export default function Experience() {
                 ></img>
               </div>
               <div className="md:col-span-3 space-y-4 my-auto">
-                <div className="text-lg md:text-2xl text-cyan-500">{exp.company}</div>
+                <div className="text-lg md:text-2xl text-cyan-500 font-bold">{exp.company}</div>
                 <div className="md:flex justify-between">
-                  <div className="text-xl text-slate-500 ">{exp.position}</div>
-                  <div className=" text-slate-400">{exp.date}</div>
+                  <div className="text-xl text-gray-500 font-bold ">{exp.position}</div>
+                  <div className=" text-gray-500 font-bold">{exp.date}</div>
                 </div>
-                <div className=" text-gray-400 font-extralight text-sm">
+                <div className=" text-black-400 text-sm">
                   <ul className="list-disc">
                     {exp.details.map((detail) => (
                       <li>{detail}</li>
@@ -47,8 +57,8 @@ export default function Experience() {
 
 const experiences = [
   {
-    position: 'SDE Intern',
-    company: 'Upstox',
+    position: 'Software Project Intern',
+    company: 'Veritas Technologies',
     details: [
       'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
       'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
@@ -57,18 +67,18 @@ const experiences = [
       'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
     ],
     date: 'Jan 2022 - Present',
-    img: 'https://lever-client-logos.s3.us-west-2.amazonaws.com/eb7738e7-d908-42f5-97da-61b28e53ce73-1631634736627.png',
-    companyUrl: "https://upstox.com/"
+    img: CP1
+    //companyUrl: "https://upstox.com/"
 
   },
   {
-    position: 'Software Developer Intern',
-    company: 'Finlegal Business Solutions Pvt. Ltd.',
+    position: 'Machine Learning & Cloud Engineer',
+    company: 'Algo Analytics',
     details: [
       'Worked on a Health-Tech application, worked on the onbaording module in which I used Redux Toolkit for managing the data flow of multiple forms. Used NextJs + Tailwind CSS + Storybook for creating and testing frontend components.',
     ],
     date: 'Nov 21 - Jan 22',
-    img: '',
+    img: CP2,
   },
   {
     position: 'Full Stack Developer Intern',
@@ -79,7 +89,7 @@ const experiences = [
       " Tackled some real world problems by using advance React JS and Redux concepts. The platform is built to help top MNC's in the world.",
     ],
     date: 'Aug 21 - Oct 21',
-    img: 'https://media-exp1.licdn.com/dms/image/C4E0BAQFOaII-vKob5Q/company-logo_200_200/0/1638201461455?e=1661990400&v=beta&t=nLDkxLlDXDgjwiu-z7PeIg1oKB1YCIcnzIeZDvW7dNk',
+    img: CP3,
     companyUrl: "http://www.sorceotech.com/"
   },
   {
@@ -91,7 +101,82 @@ const experiences = [
       " Tackled some real world problems by using advance React JS and Redux concepts. The platform is built to help top MNC's in the world.",
     ],
     date: 'Aug 21 - Oct 21',
-    img: 'https://media-exp1.licdn.com/dms/image/C4E0BAQFOaII-vKob5Q/company-logo_200_200/0/1638201461455?e=1661990400&v=beta&t=nLDkxLlDXDgjwiu-z7PeIg1oKB1YCIcnzIeZDvW7dNk',
+    img: CP4,
     companyUrl: "http://www.sorceotech.com/"
+  },
+  {
+    position: 'Software Project Intern',
+    company: 'Veritas Technologies',
+    details: [
+      'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
+      'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
+      'HolidayMaster processor to update trading holiday’s from a CSV file into MySQL using java.nio.',
+      'Service to generate portfolio statement of a user in the form of PDF file using Thymeleaf template engine.',
+      'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
+    ],
+    date: 'Jan 2022 - Present',
+    img: CP5,
+    companyUrl: "https://upstox.com/"
+
+  },
+  {
+    position: 'Software Project Intern',
+    company: 'Veritas Technologies',
+    details: [
+      'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
+      'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
+      'HolidayMaster processor to update trading holiday’s from a CSV file into MySQL using java.nio.',
+      'Service to generate portfolio statement of a user in the form of PDF file using Thymeleaf template engine.',
+      'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
+    ],
+    date: 'Jan 2022 - Present',
+    img: CP6,
+    companyUrl: "https://upstox.com/"
+
+  },
+  {
+    position: 'Software Project Intern',
+    company: 'Veritas Technologies',
+    details: [
+      'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
+      'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
+      'HolidayMaster processor to update trading holiday’s from a CSV file into MySQL using java.nio.',
+      'Service to generate portfolio statement of a user in the form of PDF file using Thymeleaf template engine.',
+      'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
+    ],
+    date: 'Jan 2022 - Present',
+    img: CP7,
+    companyUrl: "https://upstox.com/"
+
+  },
+  {
+    position: 'Software Project Intern',
+    company: 'Veritas Technologies',
+    details: [
+      'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
+      'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
+      'HolidayMaster processor to update trading holiday’s from a CSV file into MySQL using java.nio.',
+      'Service to generate portfolio statement of a user in the form of PDF file using Thymeleaf template engine.',
+      'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
+    ],
+    date: 'Jan 2022 - Present',
+    img: CP8,
+    companyUrl: "https://upstox.com/"
+
+  },
+  {
+    position: 'Software Project Intern',
+    company: 'Veritas Technologies',
+    details: [
+      'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
+      'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
+      'HolidayMaster processor to update trading holiday’s from a CSV file into MySQL using java.nio.',
+      'Service to generate portfolio statement of a user in the form of PDF file using Thymeleaf template engine.',
+      'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
+    ],
+    date: 'Jan 2022 - Present',
+    img: CP9,
+    companyUrl: "https://upstox.com/"
+
   }
 ];
