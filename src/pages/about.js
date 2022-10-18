@@ -7,7 +7,7 @@ import ProfilePic1 from '../assets/FormalPhoto.jpg';
 export default function About() {
   return (
     <div className=" max-w-6xl mx-auto p-5 py-20" id="about">
-      <div className="text-6xl md:text-7xl text-center md:text-left font-medium text-gray-300 pb-4 mb-16">
+      <div className="text-6xl md:text-7xl text-center md:text-left font-medium text-black-300 pb-4 mb-16">
         About Me
       </div>
 
@@ -16,10 +16,10 @@ export default function About() {
           <img src={ProfilePic1} className="rounded-full h-52 w-52 mx-auto" alt=""></img>
         </div>
         <div className="basis-2/3 space-y-4">
-          <span className="text-gray-500 text-xl">Hi, I am </span>
+          <span className="text-black-500 text-xl font-bold">Hi, I am </span>
           <div className="text-cyan-500 text-4xl font-bold">Satyajit Roy</div>
-          <div className="text-xl text-gray-500 font-semibold">Software Developer</div>
-          <div className="font-light text-gray-400">
+          <div className="text-xl text-black-500 font-bold">Software Developer</div>
+          <div className="font-light text-black-400">
           I am currently in Final Year pursuing B.E. (Computer Engineering) with Hons. in 
           Artificial Intelligence and Machine Learning from Pune Institute of Computer Technology, India.
           I am a Software Developer and my main interests are Machine Learning, Blockchain and

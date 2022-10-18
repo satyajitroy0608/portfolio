@@ -3,7 +3,7 @@ import React from 'react';
 export default function Experience() {
   return (
     <div className=" max-w-6xl mx-auto p-5 py-20" id="experience">
-      <div className="text-6xl md:text-7xl text-center md:text-left font-medium text-gray-300 pb-4 mb-16">
+      <div className="text-6xl md:text-7xl text-center md:text-left font-medium text-black-300 pb-4 mb-16">
         Experience
       </div>
       {experiences.map((exp) => {
