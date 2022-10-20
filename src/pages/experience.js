@@ -61,11 +61,7 @@ const experiences = [
     position: 'Software Project Intern',
     company: 'Veritas Technologies',
     details: [
-      'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
-      'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
-      'HolidayMaster processor to update trading holiday’s from a CSV file into MySQL using java.nio.',
-      'Service to generate portfolio statement of a user in the form of PDF file using Thymeleaf template engine.',
-      'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
+      
     ],
     date: 'Sept 2022 - Present',
     img: CP1,
@@ -76,7 +72,7 @@ const experiences = [
     position: 'Machine Learning & Cloud Engineer',
     company: 'Algo Analytics',
     details: [
-      'Worked on a Health-Tech application, worked on the onbaording module in which I used Redux Toolkit for managing the data flow of multiple forms. Used NextJs + Tailwind CSS + Storybook for creating and testing frontend components.',
+      
     ],
     date: 'Aug 2022 - Present',
     img: CP2,
@@ -86,9 +82,7 @@ const experiences = [
     position: 'Machine Learning Facilitator',
     company: 'Google',
     details: [
-      'Built a Vendor Management System and Auction Platform.',
-      'The Platform automated the activities performed between Customers and Vendors.',
-      " Tackled some real world problems by using advance React JS and Redux concepts. The platform is built to help top MNC's in the world.",
+      
     ],
     date: 'Sept 21 - Present',
     img: CP3,
@@ -98,9 +92,7 @@ const experiences = [
     position: 'Product Development Intern',
     company: 'Briota Technologies',
     details: [
-      'Built a Vendor Management System and Auction Platform.',
-      'The Platform automated the activities performed between Customers and Vendors.',
-      " Tackled some real world problems by using advance React JS and Redux concepts. The platform is built to help top MNC's in the world.",
+      
     ],
     date: 'Oct 21 - Jan 22',
     img: CP4,
@@ -110,11 +102,7 @@ const experiences = [
     position: 'Software Development Intern',
     company: 'IDBI Intech Ltd.',
     details: [
-      'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
-      'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
-      'HolidayMaster processor to update trading holiday’s from a CSV file into MySQL using java.nio.',
-      'Service to generate portfolio statement of a user in the form of PDF file using Thymeleaf template engine.',
-      'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
+      
     ],
     date: 'June 2021 - Dec 2021',
     img: CP5,
@@ -125,11 +113,7 @@ const experiences = [
     position: 'Artificial Intelligence Intern',
     company: 'Bobble AI',
     details: [
-      'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
-      'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
-      'HolidayMaster processor to update trading holiday’s from a CSV file into MySQL using java.nio.',
-      'Service to generate portfolio statement of a user in the form of PDF file using Thymeleaf template engine.',
-      'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
+      
     ],
     date: 'July 2021 - Oct 2021',
     img: CP6,
@@ -140,11 +124,7 @@ const experiences = [
     position: 'Software Developer & Managing Head',
     company: 'Grow Monks',
     details: [
-      'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
-      'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
-      'HolidayMaster processor to update trading holiday’s from a CSV file into MySQL using java.nio.',
-      'Service to generate portfolio statement of a user in the form of PDF file using Thymeleaf template engine.',
-      'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
+      
     ],
     date: 'Jan 2022 - Present',
     img: CP7,
@@ -155,11 +135,7 @@ const experiences = [
     position: 'Operations & Technical Lead',
     company: 'KODE IT Solutions',
     details: [
-      'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
-      'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
-      'HolidayMaster processor to update trading holiday’s from a CSV file into MySQL using java.nio.',
-      'Service to generate portfolio statement of a user in the form of PDF file using Thymeleaf template engine.',
-      'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
+      
     ],
     date: 'Aug 2021 - Nov 2021',
     img: CP8,
@@ -171,11 +147,7 @@ const experiences = [
     position: 'Machine Learning Intern',
     company: 'Girlscript India',
     details: [
-      'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
-      'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
-      'HolidayMaster processor to update trading holiday’s from a CSV file into MySQL using java.nio.',
-      'Service to generate portfolio statement of a user in the form of PDF file using Thymeleaf template engine.',
-      'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
+      
     ],
     date: 'Jan 2021 - March 2021',
     img: CP9,
@@ -187,11 +159,7 @@ const experiences = [
     position: 'Machine Learning Intern',
     company: 'Verzeo',
     details: [
-      'Created a notification service using Apache Kafka with Spring-Boot for email and push notifications.',
-      'Worked on a Rundeck Job to fetch active IPO’s details at a specific interval from NSE and update on Upstox’s platform.',
-      'HolidayMaster processor to update trading holiday’s from a CSV file into MySQL using java.nio.',
-      'Service to generate portfolio statement of a user in the form of PDF file using Thymeleaf template engine.',
-      'I am Contributing to the API migration of the IPO application from Node.js to Spring-Boot.',
+      
     ],
     date: 'Dec 2019 - Feb 2020',
     img: CP10,

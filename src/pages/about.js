@@ -18,7 +18,7 @@ export default function About() {
         <div className="basis-2/3 space-y-4">
           <span className="text-black-500 text-xl font-bold">Hi, I am </span>
           <div className="text-cyan-500 text-4xl font-bold">Satyajit Roy</div>
-          <div className="text-xl text-black-500 font-bold">Software Developer</div>
+          <div className="text-xl text-black-500 font-bold">Computer Engineering Student & Software Developer</div>
           <div className="font-light text-black-400">
           I am currently in Final Year pursuing B.E. (Computer Engineering) with Hons. in 
           Artificial Intelligence and Machine Learning from Pune Institute of Computer Technology, India.

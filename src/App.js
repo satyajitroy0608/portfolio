@@ -9,7 +9,7 @@ import Achievements from './pages/achievements';
 import Experience from './pages/experience';
 import Extracurriculars from './pages/extracurriculars';
 import Home from './pages/home';
-import Projects from './pages/projects';
+//import Projects from './pages/projects';
 import Resume from './pages/resume';
 import Skills from './pages/skills';
 // import Music from './assets/bg.mp3';
@@ -36,7 +36,7 @@ function App() {
       <Navbar />
       <Home></Home>
       <Experience></Experience>
-      <Projects></Projects>
+      
       <Skills></Skills>
       <Achievements></Achievements>
       <Extracurriculars>
