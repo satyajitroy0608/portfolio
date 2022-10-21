@@ -29,7 +29,7 @@ export default function About() {
           I am in Final Year pursuing B.E. (Computer Engineering) with Hons. in 
           Artificial Intelligence and Machine Learning from Pune Institute of Computer Technology, India.
           My main interests are Machine Learning, Blockchain and Cross-Platform Mobile App Development. I am passionate about making use of technology to solve
-          real-world problems. A student with strong inter-personal and communication skills.
+          real-world problems.
           </div>
         </div>
       </div>
