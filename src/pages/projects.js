@@ -26,8 +26,8 @@ export default function Experience() {
               <div className="md:col-span-3 space-y-4 my-auto">
                 <div className="text-lg md:text-2xl text-cyan-500 font-bold">{exp.company}</div>
                 <div className="md:flex justify-between">
-                  <div className="text-l text-gray-500">{exp.position}</div>
-                  <div className=" text-gray-500">{exp.date}</div>
+                  <div className="text-l text-gray-500 font-bold">{exp.position}</div>
+                  <div className=" text-l text-gray-400">{exp.date}</div>
                 </div>
                 <div className=" text-black-400 text-sm">
                   <ul className="list-disc">
