@@ -106,6 +106,10 @@ const experiences = [
     position: 'Software Development Intern',
     company: 'IDBI Intech Ltd.',
     details: [
+      "Performed customer sentiment analysis by making use of Natural Language Processing techniques to improve Digital Banking Technology of IDBI Bank.",
+      "Performed Expense Behavior Analytics to analyze the likelihood of a current or prospective customer to opt for the various Banking and loan services offered by the Bank. The analytics was performed based on the customer data that was available (from cookies, emails, text messages, customer enquiries with the bank etc.). ",
+      "Worked on developing and updating existing API services to facilitate faster payment integration for clients of IDBI Bank which include FMCG, BFSI, MSME and E-Commerce companies.",
+      "Through the Payment API’s, the clients can now get access to various payment modes like NEFT, RTGS, IMPS and UPI for vendor payments and salary compensation"
   
     ],
     date: 'June 2021 - Dec 2021',
@@ -117,6 +121,8 @@ const experiences = [
     position: 'Artificial Intelligence Intern',
     company: 'Bobble AI',
     details: [
+      "Part of Bobble Keyboard and Mint Keyboard teams (in collaboration with Xiaomi).",
+      "Successfully implemented and delivered Text Suggestion and Gender Prediction model using Deep Learning and Natural Language Processing. Perfomed extensive Exploratory Data Analysis.",
       
     ],
     date: 'July 2021 - Oct 2021',
@@ -128,7 +134,8 @@ const experiences = [
     position: 'Software Developer & Managing Head',
     company: 'Grow Monks',
     details: [
-      
+      "It is a freelancing agency that undertakes projects on Web, Mobile App Development and AI-ML from national and international clients at much lower cost than the competition.",
+      "The company is run by two of my batchmates and myself, my responsibilites are managing the software development process and working on developing Mobile App and AI-ML projects."
     ],
     date: 'Jan 2022 - Present',
     img: CP7,
@@ -139,7 +146,9 @@ const experiences = [
     position: 'Operations & Technical Lead',
     company: 'KODE IT Solutions',
     details: [
-      
+      "The company is incubated under the Startup and Innovation Cell of Pune Institute of Computer Technology.",
+      "Worked as the technical lead for Machine Learning and Mobile App Development Projects.",
+      "Also worked as the Managing Head of all the teams working under the company."
     ],
     date: 'Aug 2021 - Nov 2021',
     img: CP8,
@@ -151,7 +160,7 @@ const experiences = [
     position: 'Machine Learning Intern',
     company: 'Girlscript India',
     details: [
-      
+      "Implemented and deployed numerous Data Science projects using Machine Learning models and Python libraries like pandas, numpy, matplotlib, seaborn, sklearn, keras, flask and streamlit."
     ],
     date: 'Jan 2021 - March 2021',
     img: CP9,
@@ -163,7 +172,9 @@ const experiences = [
     position: 'Machine Learning Intern',
     company: 'Verzeo',
     details: [
-      
+      "Worked on two major projects.",
+      "Face mask detection using Keras and Tensorflow.",
+      "Speech to text and text to speech conversion."
     ],
     date: 'Dec 2019 - Feb 2020',
     img: CP10,
