@@ -20,7 +20,7 @@ export default function About() {
           <div className="text-cyan-500 text-4xl font-bold">Satyajit Roy</div>
           <div className="text-xl text-black-500 font-bold">Computer Engineering Student & Software Developer</div>
           <div className="font-light text-black-400">
-          I am currently in Final Year pursuing B.E. (Computer Engineering) with Hons. in 
+          I am in Final Year pursuing B.E. (Computer Engineering) with Hons. in 
           Artificial Intelligence and Machine Learning from Pune Institute of Computer Technology, India.
           My main interests are Machine Learning, Blockchain and Cross-Platform Mobile App Development. I am passionate about making use of technology to solve
           real-world problems. A student with strong inter-personal and communication skills.
