@@ -61,7 +61,8 @@ const experiences = [
     position: 'Software Project Intern',
     company: 'Veritas Technologies',
     details: [
-      
+      "Working on converting epics/stories into pseudo code (either in context of existing code or new code)",
+      "The project aims to increase the speed of task distribution and completion and facilitate Agile Software Development at Veritas."
     ],
     date: 'Sept 2022 - Present',
     img: CP1,
@@ -72,7 +73,7 @@ const experiences = [
     position: 'Machine Learning & Cloud Engineer',
     company: 'Algo Analytics',
     details: [
-      
+      "Working to set up a complete Machine Learning Foundation on Azure with CI/CD pipelines and end to end development environment along with DevOps using Azure to host internally developed SaaS products and perform customer centric development in a secure cloud environment."
     ],
     date: 'Aug 2022 - Present',
     img: CP2,
@@ -82,9 +83,10 @@ const experiences = [
     position: 'Machine Learning Facilitator',
     company: 'Google',
     details: [
-      
+      "One of the only 108 candidates spread across 29 countries selected globally for this prestigious program.",
+      "My tasks include contributing to Google's Machine Learning models currently deployed on an International level, spread awareness, teach and inspire students and professionals at a national and international level to take up Machine Learning and start working in the domain."
     ],
-    date: 'Sept 21 - Present',
+    date: 'Sept 2021 - Present',
     img: CP3,
     companyUrl: "https://about.google/"
   },
@@ -92,9 +94,11 @@ const experiences = [
     position: 'Product Development Intern',
     company: 'Briota Technologies',
     details: [
-      
+      "Worked on a Deep Learning model in collaboration with the Briota team in Denmark.",
+      "The model that I worked on was deployed on a mobile app that calculates the lung health index and suggests customized remedies and diet plans to the patients suffering from lung diseases such as Asthma, ILD and COPD.",
+      "The mobile app has been developed majorly for the European population."
     ],
-    date: 'Oct 21 - Jan 22',
+    date: 'Oct 2021 - Jan 2022',
     img: CP4,
     companyUrl: "https://www.briota.co/"
   },
@@ -102,7 +106,7 @@ const experiences = [
     position: 'Software Development Intern',
     company: 'IDBI Intech Ltd.',
     details: [
-      
+  
     ],
     date: 'June 2021 - Dec 2021',
     img: CP5,
