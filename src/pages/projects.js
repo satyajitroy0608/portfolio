@@ -124,7 +124,7 @@ const experiences = [
       details: [
         "The website you are looking at!"
       ],
-      date: 'Mar 2022 - Aug 2022',
+      date: 'Sept 2022',
       //img: CP6,
       //companyUrl: "https://www.bobble.ai/en/home"
   
