@@ -101,7 +101,7 @@ const experiences = [
       "A mobile-based medical records management system based on Blockchain to securely store medical data, facilitate online consultations and enable medical fee payment.",
       "Tested and Deployed on Ethereum Blockchain."
     ],
-    date: 'June 2021 - Dec 2021',
+    date: 'Dec 2021 - Feb 2022',
     //img: CP5,
     //companyUrl: "https://www.idbiintech.com/"
 
