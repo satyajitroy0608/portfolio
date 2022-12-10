@@ -50,7 +50,7 @@ export default function About() {
         </div>
         <a
           className="p-2 cursor-pointer rounded-lg relative px-10 w-max flex items-center m-auto space-x-4 border bg-slate-200"
-          href={'https://drive.google.com/file/d/1zAufc8KWgZF1HZP81NIAMBlJbEn9nBZm/view?usp=sharing'}
+          href={'https://drive.google.com/file/d/1iuMTP7Wd7EBrqT2awbY8gt4BAVetrD-6/view?usp=sharing'}
           target={'_blanck'}
           rel="noreferrer"
         >
