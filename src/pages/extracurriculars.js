@@ -55,7 +55,7 @@ const experiences = [
     //position: 'Full Stack Developer Intern',
     company: 'College Cricket Team',
     details: [
-      "Part of the cricket team of Pune Institute of Computer Technology and have participated in various district, state and national-level tournaments. "
+      "Vice Captain of the cricket team of Pune Institute of Computer Technology and have participated in various district, state and national-level tournaments. "
     ],
     //date: 'Aug 21 - Oct 21',
     //img: 'https://media-exp1.licdn.com/dms/image/C4E0BAQFOaII-vKob5Q/company-logo_200_200/0/1638201461455?e=1661990400&v=beta&t=nLDkxLlDXDgjwiu-z7PeIg1oKB1YCIcnzIeZDvW7dNk',
@@ -89,7 +89,7 @@ const experiences = [
     //position: 'Full Stack Developer Intern',
     company: 'Community Service',
     details: [
-      "Have worked with various NGO's and social welfare organizations to help underprivileged students receive the right guidance and sufficient resources to pursue higher education. Conducted lectures on High School Mathematics for underprivileged students. Have been a part of various donation drives aimed at providing basic necessities like food, clean drinking water and clothes to the less privileged sections of society."
+      "Have worked with various NGO's and social welfare organizations to help underprivileged students receive the right guidance and sufficient resources to pursue higher education. Conducted lectures on High School Mathematics, Physics, and Chemistry for underprivileged students. Have been a part of various donation drives aimed at providing basic necessities like food, clean drinking water and clothes to the less privileged sections of society."
     ],
 
     

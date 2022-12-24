@@ -59,6 +59,19 @@ const experiences = [
     //companyUrl: "https://www.veritas.com/"
 
   },
+
+  {
+    position: 'Python, Flutter, Firebase Flask, ML',
+    company: 'Depression Detector',
+    details: [
+      "Performed sentiment analysis and multi-class classification using combined CNN-LSTM approach on Twitter data to detect mental depression.",
+      "The model has an accuracy of 85%.",
+    ],
+    date: 'July 2021 - Sept 2021',
+    //img: CP2,
+    //companyUrl: 'https://www.algoanalytics.com/'
+  },
+
   {
     position: 'MERN, Flutter, Firebase, Flask, Machine Learning',
     company: 'Rebuild Hub',
