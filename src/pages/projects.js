@@ -67,7 +67,7 @@ const experiences = [
       "Performed sentiment analysis and multi-class classification using combined CNN-LSTM approach on Twitter data to detect mental depression.",
       "The model has an accuracy of 85%.",
     ],
-    date: 'May 2021 - Jul 2021',
+    date: 'May 2021 - July 2021',
     //img: CP2,
     //companyUrl: 'https://www.algoanalytics.com/'
   },
