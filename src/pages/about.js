@@ -20,7 +20,7 @@ export default function About() {
           <div className="text-cyan-500 text-4xl font-bold">Satyajit Roy</div>
           <div className="text-xl text-black-500 font-bold">Computer Engineering Student & Software Developer</div>
           <div className="text-l text-black-500">
-            GPA: 9.5 / 10 & GRE: 327 / 340
+            GPA: 9.61 / 10 & GRE: 327 / 340
           </div>
           <div className="text-l text-black-500 font-bold">
             
