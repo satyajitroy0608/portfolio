@@ -13,11 +13,11 @@ export default function Home() {
           <div className=" flex flex-col md:flex-row space-x-4 text-lg md:text-2xl justify-center items-center">
             <div className=" text-cyan-400 font-bold">Computer Science Graduate Student</div>
             <div className="flex space-x-4 items-center">
-              <div className=" text-gray-300 font-extralight">from</div>
+              <div className=" text-gray-300 font-extralight">at the University of Southern California</div>
               <div className="h-8 md:h-10 w-10 relative">
                 <img
                   className="h-full"
-                  src={"https://cdn-icons-png.flaticon.com/512/256/256672.png"}
+                 // src={"https://cdn-icons-png.flaticon.com/512/256/256672.png"}
                   alt=""
                 ></img>
               </div>
