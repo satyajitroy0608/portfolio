@@ -58,18 +58,18 @@ export default function Experience() {
 
 const experiences = [
   {
-    position: 'Software Project Intern',
+    position: 'Software Engineer Intern',
     company: 'Veritas Technologies',
     details: [
       "Working on converting epics/stories into pseudo code (either in context of existing code or new code)",
       "The project aims to increase the speed of task distribution and completion and facilitate Agile Software Development at Veritas."
     ],
-    date: 'Sept 2022 - Present',
+    date: 'August 2022 - June 2023',
     img: CP1,
     companyUrl: "https://www.veritas.com/"
 
   },
-  {
+ /* {
     position: 'Machine Learning & Cloud Engineer',
     company: 'Algo Analytics',
     details: [
@@ -78,7 +78,7 @@ const experiences = [
     date: 'Aug 2022 - Present',
     img: CP2,
     companyUrl: 'https://www.algoanalytics.com/'
-  },
+  },*/
   {
     position: 'Machine Learning Facilitator',
     company: 'Google',
