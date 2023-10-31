@@ -31,7 +31,7 @@ export default function Extracurriculars() {
 
 const experiences = [
   {
-    position: 'Vice President (Sept 2020 - June 2021) & Chairperson (July 2021 - Present)',
+    position: 'Vice President (Sept 2020 - June 2021) & Chairperson (July 2021 - June 2023)',
     company: 'PICT CSI Student Branch',
     details: [
       "PICT CSI Student Branch is the student chapter of the prestigious Computer Society of India in Pune Institute of Computer Technology with more than 1,100 student members."
