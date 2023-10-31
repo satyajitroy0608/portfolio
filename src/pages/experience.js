@@ -79,18 +79,7 @@ const experiences = [
     img: CP2,
     companyUrl: 'https://www.algoanalytics.com/'
   },*/
-  {
-    position: 'Machine Learning Facilitator',
-    company: 'Google',
-    details: [
-      "One of the only 108 candidates spread across 29 countries selected globally for this prestigious program.",
-      "My tasks include contributing to Google's Machine Learning models currently deployed on an International level, spread awareness, teach and inspire students and professionals at a national and international level to take up Machine Learning and start working in the domain."
-    ],
-    date: 'Sept 2021 - Present',
-    img: CP3,
-    companyUrl: "https://about.google/"
-  },
-  {
+    {
     position: 'Product Development Engineer Intern',
     company: 'Briota Technologies',
     details: [
@@ -129,6 +118,17 @@ const experiences = [
     img: CP6,
     companyUrl: "https://www.bobble.ai/en/home"
 
+  },
+  {
+    position: 'Machine Learning Facilitator',
+    company: 'Google',
+    details: [
+      "One of the only 108 candidates spread across 29 countries selected globally for this prestigious program.",
+      "My tasks include contributing to Google's Machine Learning models currently deployed on an International level, spread awareness, teach and inspire students and professionals at a national and international level to take up Machine Learning and start working in the domain."
+    ],
+    date: 'September 2021 - Present',
+    img: CP3,
+    companyUrl: "https://about.google/"
   },
   {
     position: 'Software Developer & Managing Head',
