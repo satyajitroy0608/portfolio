@@ -61,8 +61,8 @@ const experiences = [
     position: 'Software Engineer Intern',
     company: 'Veritas Technologies',
     details: [
-      "Working on converting epics/stories into pseudo code (either in context of existing code or new code)",
-      "The project aims to increase the speed of task distribution and completion and facilitate Agile Software Development at Veritas."
+      "Developed a web app to convert epics/stories into pseudo-code. Spearheaded a team of 5 interns & fine-tuned code T5 transformer model to convert text to code & code to pseudo-code.",
+      "Achieved a BLEU score of 0.79 & deployed the model using Flask, React, Node & Express."
     ],
     date: 'August 2022 - June 2023',
     img: CP1,
@@ -91,19 +91,19 @@ const experiences = [
     companyUrl: "https://about.google/"
   },
   {
-    position: 'Product Development Intern',
+    position: 'Product Development Engineer Intern',
     company: 'Briota Technologies',
     details: [
       "Worked on a Deep Learning model in collaboration with the Briota team in Denmark.",
       "The model that I worked on was deployed on a mobile app that calculates the lung health index and suggests customized remedies and diet plans to the patients suffering from lung diseases such as Asthma, ILD and COPD.",
       "The mobile app has been developed majorly for the European population."
     ],
-    date: 'Oct 2021 - Jan 2022',
+    date: 'January 2022 - March 2022',
     img: CP4,
     companyUrl: "https://www.briota.co/"
   },
   {
-    position: 'Software Development Intern',
+    position: 'Software Engineer Intern',
     company: 'IDBI Intech Ltd.',
     details: [
       "Performed customer sentiment analysis by making use of Natural Language Processing techniques to improve Digital Banking Technology of IDBI Bank.",
@@ -112,20 +112,20 @@ const experiences = [
       "Through the Payment API’s, the clients can now get access to various payment modes like NEFT, RTGS, IMPS and UPI for vendor payments and salary compensation"
   
     ],
-    date: 'June 2021 - Dec 2021',
+    date: 'July 2021 - December 2021',
     img: CP5,
     companyUrl: "https://www.idbiintech.com/"
 
   },
   {
-    position: 'Artificial Intelligence Intern',
+    position: 'Machine Learning Engineer Intern',
     company: 'Bobble AI',
     details: [
       "Part of Bobble Keyboard and Mint Keyboard teams (in collaboration with Xiaomi).",
       "Successfully implemented and delivered Text Suggestion and Gender Prediction model using Deep Learning and Natural Language Processing. Perfomed extensive Exploratory Data Analysis.",
       
     ],
-    date: 'July 2021 - Oct 2021',
+    date: 'April 2021 - June 2021',
     img: CP6,
     companyUrl: "https://www.bobble.ai/en/home"
 
@@ -137,7 +137,7 @@ const experiences = [
       "It is a freelancing agency that undertakes projects on Web, Mobile App Development and AI-ML from national and international clients at much lower cost than the competition.",
       "The company is run by two of my batchmates and myself, my responsibilites are managing the software development process and working on developing Mobile App and AI-ML projects."
     ],
-    date: 'Jan 2022 - Present',
+    date: 'Jan 2022 - June 2023',
     img: CP7,
     companyUrl: "https://www.growmonks.in/"
 
