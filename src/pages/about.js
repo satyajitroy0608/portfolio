@@ -18,18 +18,15 @@ export default function About() {
         <div className="basis-2/3 space-y-4">
           <span className="text-black-500 text-xl font-bold">Hi, I am </span>
           <div className="text-cyan-500 text-4xl font-bold">Satyajit Roy</div>
-          <div className="text-xl text-black-500 font-bold">Computer Engineering Student & Software Developer</div>
+          <div className="text-xl text-black-500 font-bold">Computer Science Graduate Student & Software Engineer</div>
           <div className="text-l text-black-500">
-            GPA: 9.61 / 10 & GRE: 327 / 340
+            GPA: 3.9 / 4.0 & GRE: 327 / 340
           </div>
           <div className="text-l text-black-500 font-bold">
             
           </div>
           <div className="font-light text-black-400">
-          I am in Final Year pursuing B.E. (Computer Engineering) with Hons. in 
-          Artificial Intelligence and Machine Learning from Pune Institute of Computer Technology, India.
-          My main interests are Machine Learning, Blockchain and Cross-Platform Mobile App Development. I am passionate about making use of technology to solve
-          real-world problems.
+          I am a passionate graduate student pursing Masters in Computer Science at the University of Southern California. I will be graduating in May 2025. I am deeply interested in Software Development, Machine Learning. I am actively looking for internship opportunities for summer 2024. I have previous experience of working as a SDE intern and ML / AI engineer intern at Veritas, IDBI Intech Ltd., Bobble AI and Briota Technologies.
           </div>
         </div>
       </div>
