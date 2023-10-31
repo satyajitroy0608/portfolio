@@ -83,9 +83,8 @@ const experiences = [
     position: 'Product Development Engineer Intern',
     company: 'Briota Technologies',
     details: [
-      "Worked on a Deep Learning model in collaboration with the Briota team in Denmark.",
-      "The model that I worked on was deployed on a mobile app that calculates the lung health index and suggests customized remedies and diet plans to the patients suffering from lung diseases such as Asthma, ILD and COPD.",
-      "The mobile app has been developed majorly for the European population."
+     "Led the development of a Flutter mobile app, powered by deep learning, to calculate lung health index & deliver tailored remedies & diet plans for patients with Asthma, ILD & COPD in Europe decreasing emergency room visits by 25%.",
+     "Improved condition of 70% of initial patient cohort with no deterioration in health reported." 
     ],
     date: 'January 2022 - March 2022',
     img: CP4,
